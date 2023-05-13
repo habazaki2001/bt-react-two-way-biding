@@ -1,0 +1,21 @@
+body {
+  margin: auto;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.bt {
+  flex-basis: 100%;
+  padding: 20px;
+  margin: 20px;
+  background-color: #dcdcdc;
+  border-radius: 10px;
+}
+h1 {
+  color: #0c76d1;
+}
